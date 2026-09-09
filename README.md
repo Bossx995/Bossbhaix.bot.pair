@@ -22,5 +22,5 @@ const auth = {
 ```
 
 - **3) Bossx**  
-  [![Bossx - photo](https://ibb.co/R4kww7sH)
+  [![Bossx - photo](https://i.ibb.co/TqFmCCBM/photo-2026-09-09-06-28-12-7683418642519687204.jpg)
   
