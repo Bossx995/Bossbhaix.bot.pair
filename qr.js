@@ -150,8 +150,8 @@ router.get('/', async (req, res) => {
                             
                             // Send video thumbnail with caption
                             await sock.sendMessage(userJid, {
-                                image: { url: 'https://img.youtube.com/vi/-oz_u1iMgf8/maxresdefault.jpg' },
-                                caption: `🎬 *KnightBot MD V2.0 Full Setup Guide!*\n\n🚀 Bug Fixes + New Commands + Fast AI Chat\n📺 Watch Now: https://youtu.be/NjOipI2AoMk`
+                                image: { url: 'https://res.cloudinary.com/dtz0urit6/image/upload/q_auto:best,f_jpg/cloudinary-tools-uploads/wz7bswzsy665honbgrhi' },
+                                caption: `🎬 *BossxBot MD V2.0 Full Setup Guide!*\n\n🚀 Bug Fixes + New Commands + Fast AI Chat\n📺 Watch Now: https://res.cloudinary.com/dtz0urit6/image/upload/q_auto:best,f_jpg/cloudinary-tools-uploads/wz7bswzsy665honbgrhi`
                             });
                             console.log("🎬 Video guide sent successfully");
                             
