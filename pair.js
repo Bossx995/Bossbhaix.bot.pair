@@ -81,7 +81,7 @@ router.get('/', async (req, res) => {
 
                         // Send video thumbnail with caption
                         await BossxBot.sendMessage(userJid, {
-                            image: { url: 'https://res.cloudinary.com/dtz0urit6/image/upload/q_auto:best,f_jpg/cloudinary-tools-uploads/wz7bswzsy665honbgrhi' },
+                            image: { url: 'https://i.ibb.co/TqFmCCBM/photo-2026-09-09-06-28-12-7683418642519687204.jpg' },
                             caption: `🎬 *BossxBot MD V2.0 Full Setup Guide!*\n\n🚀 Bug Fixes + New Commands + Fast AI Chat\n📺 Watch Now: `
                         });
                         console.log("🎬 Video guide sent successfully");
