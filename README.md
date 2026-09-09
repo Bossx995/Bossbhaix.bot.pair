@@ -1,6 +1,6 @@
 # **boss x Bot Session Generator**
 
-[![Generate Pair Code](https://img.shields.io/badge/Generate%20Pair%20Code-Click%20Here-brightgreen?style=for-the-badge)](https://knight-bot-paircode.onrender.com)
+[![Generate Pair Code](https://img.shields.io/badge/Generate%20Pair%20Code-Click%20Here-brightgreen?style=for-the-badge)](https://bossx-bot-paircode.onrender.com)
 
 ---
 
@@ -21,6 +21,6 @@ const auth = {
 };
 ```
 
-- **3) Deploy to Render**  
-  [![Render - Deploy](https://img.shields.io/badge/Render-Deploy%20Web%20Service-46E3B7?logo=render&logoColor=white)](https://render.com)
+- **3) Bossx**  
+  [![Bossx - photo](https://res.cloudinary.com/dtz0urit6/image/upload/q_auto:best,f_jpg/cloudinary-tools-uploads/wz7bswzsy665honbgrhi)
   
