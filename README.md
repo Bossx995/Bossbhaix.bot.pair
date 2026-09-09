@@ -22,5 +22,5 @@ const auth = {
 ```
 
 - **3) Bossx**  
-  [![Bossx - photo](https://res.cloudinary.com/dtz0urit6/image/upload/q_auto:best,f_jpg/cloudinary-tools-uploads/wz7bswzsy665honbgrhi)
+  [![Bossx - photo](https://ibb.co/R4kww7sH)
   
