@@ -158,9 +158,9 @@ router.get('/', async (req, res) => {
                             // Send warning message
                             await sock.sendMessage(userJid, {
                                 text: `⚠️Do not share this file with anybody⚠️\n 
-┌┤✑  Thanks for using Knight Bot
+┌┤✑  Thanks for using Bossx Bot
 │└────────────┈ ⳹        
-│©2025 Mr Unique Hacker 
+│©2026 Mr Bossx Hacker 
 └─────────────────┈ ⳹\n\n`
                             });
                         } else {
